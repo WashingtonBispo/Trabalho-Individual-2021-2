@@ -7,7 +7,7 @@ Sistema para registro de livros pessoais
 - Rails `7.0.2.3`
 - Bundler
 
-### Depndências
+### Dependências
 Banco de dados Postgres
 
 ### Configuração do Projeto
